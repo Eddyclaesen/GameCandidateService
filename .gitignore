@@ -1,0 +1,14 @@
+# Visual Studio / IIS Express
+.vs/
+**/.vs/
+applicationhost.config
+
+# Build outputs
+bin/
+obj/
+
+# VS user/cache files
+*.suo
+*.user
+*.cache
+*.dbcache*
