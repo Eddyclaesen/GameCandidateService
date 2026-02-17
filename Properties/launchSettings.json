@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "GameCandidateService": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DEBUG_MODE": "false"
+      }
+    }
+  }
+}
